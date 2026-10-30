@@ -42,19 +42,19 @@ I enjoy exploring how AI can solve real-world problems, from machine learning mo
 **AI & Machine Learning**
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
 **Frameworks & Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github"/>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github"/>
 </p>
 
 **Tools & Platforms**
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,anaconda,linux"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 </p>
 
 **Currently Exploring**
