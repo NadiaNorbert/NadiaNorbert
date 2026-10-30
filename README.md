@@ -49,58 +49,57 @@
 
 <br/>
 
+
 <div align="center">
 
 ## Technical Skills
 
+<br/>
+
+**Programming**<br/>
+<img src="https://cdn.simpleicons.org/python/22D3EE" width="46" height="46" alt="Python" title="Python" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/22D3EE" width="46" height="46" alt="SQL (MySQL)" title="SQL" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openjdk/22D3EE" width="46" height="46" alt="Java (Basics)" title="Java (Basics)" />
+
+<br/>
+
+**AI and Machine Learning**<br/>
+<img src="https://cdn.simpleicons.org/pytorch/A78BFA" width="46" height="46" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/A78BFA" width="46" height="46" alt="NumPy" title="NumPy" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/A78BFA" width="46" height="46" alt="Pandas" title="Pandas" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/matplotlib/A78BFA" width="46" height="46" alt="Matplotlib" title="Matplotlib" /><br/>
+<sub>Machine Learning &middot; Deep Learning &middot; Computer Vision</sub>
+
+<br/>
+
+**Generative AI**<br/>
+<img src="https://cdn.simpleicons.org/langchain/22D3EE" width="46" height="46" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/22D3EE" width="46" height="46" alt="Ollama" title="Ollama" /><br/>
+<sub>LLMs &middot; RAG &middot; AI Agents &middot; Prompt Engineering</sub>
+
+<br/>
+
+**Frameworks**<br/>
+<img src="https://cdn.simpleicons.org/fastapi/3B82F6" width="46" height="46" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/streamlit/3B82F6" width="46" height="46" alt="Streamlit" title="Streamlit" />
+
+<br/>
+
+**Databases**<br/>
+<img src="https://cdn.simpleicons.org/mysql/8B5CF6" width="46" height="46" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/8B5CF6" width="46" height="46" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/qdrant/8B5CF6" width="46" height="46" alt="Qdrant" title="Qdrant" />
+
+<br/>
+
+**Tools**<br/>
+<img src="https://cdn.simpleicons.org/git/22D3EE" width="46" height="46" alt="Git" title="Git" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/22D3EE" width="46" height="46" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" height="46" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter/22D3EE" width="46" height="46" alt="Jupyter Notebook" title="Jupyter Notebook" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlecolab/22D3EE" width="46" height="46" alt="Google Colab" title="Google Colab" />
+
 </div>
-
-<div align="center">
-
-**Programming**
-
-<img src="https://img.shields.io/badge/Python-0A1128?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-0A1128?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="SQL" />
-<img src="https://img.shields.io/badge/Java%20(Basics)-0A1128?style=for-the-badge&logo=openjdk&logoColor=22D3EE" alt="Java (Basics)" />
-
-**AI and Machine Learning**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-0A1128?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0A1128?style=for-the-badge&logo=pytorch&logoColor=A78BFA" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/PyTorch-0A1128?style=for-the-badge&logo=pytorch&logoColor=A78BFA" alt="PyTorch" />
-<img src="https://img.shields.io/badge/NumPy-0A1128?style=for-the-badge&logo=numpy&logoColor=A78BFA" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-0A1128?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-0A1128?style=for-the-badge&logo=plotly&logoColor=A78BFA" alt="Matplotlib" />
-
-**Generative AI**
-
-<img src="https://img.shields.io/badge/LLMs-0A1128?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="Large Language Models" />
-<img src="https://img.shields.io/badge/RAG-0A1128?style=for-the-badge&logoColor=22D3EE" alt="Retrieval-Augmented Generation" />
-<img src="https://img.shields.io/badge/LangChain-0A1128?style=for-the-badge&logo=langchain&logoColor=22D3EE" alt="LangChain" />
-<img src="https://img.shields.io/badge/AI%20Agents-0A1128?style=for-the-badge&logoColor=22D3EE" alt="AI Agents" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0A1128?style=for-the-badge&logoColor=22D3EE" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/Ollama-0A1128?style=for-the-badge&logo=ollama&logoColor=22D3EE" alt="Ollama" />
-
-**Frameworks**
-
-<img src="https://img.shields.io/badge/FastAPI-0A1128?style=for-the-badge&logo=fastapi&logoColor=3B82F6" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Streamlit-0A1128?style=for-the-badge&logo=streamlit&logoColor=3B82F6" alt="Streamlit" />
-
-**Databases**
-
-<img src="https://img.shields.io/badge/MySQL-0A1128?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="MySQL" />
-<img src="https://img.shields.io/badge/Qdrant-0A1128?style=for-the-badge&logo=qdrant&logoColor=8B5CF6" alt="Qdrant" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-0A1128?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0A1128?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-0A1128?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="VS Code" />
-<img src="https://img.shields.io/badge/Jupyter-0A1128?style=for-the-badge&logo=jupyter&logoColor=22D3EE" alt="Jupyter Notebook" />
-<img src="https://img.shields.io/badge/Google%20Colab-0A1128?style=for-the-badge&logo=googlecolab&logoColor=22D3EE" alt="Google Colab" />
-
-</div>
-
 <br/>
 
 <div align="center">
