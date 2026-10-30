@@ -108,17 +108,10 @@
 ## GitHub Statistics
 
 <a href="https://github.com/NadiaNorbert">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NadiaNorbert&show_icons=true&hide_border=true&bg_color=0A1128&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&ring_color=7C3AED&count_private=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/NadiaNorbert">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaNorbert&layout=compact&hide_border=true&bg_color=0A1128&title_color=22D3EE&text_color=C9D1D9&langs_count=6" alt="Top languages" />
-</a>
-
-<br/>
-
-<a href="https://github.com/NadiaNorbert">
   <img src="https://streak-stats.demolab.com?user=NadiaNorbert&hide_border=true&background=0A1128&ring=22D3EE&fire=A78BFA&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak" />
 </a>
+
+
 
 </div>
 
