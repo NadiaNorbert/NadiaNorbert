@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/nadia-norbert-6979a3298/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A1128" alt="LinkedIn" />
 </a>
+
+
 <a href="https://github.com/NadiaNorbert">
   <img src="https://img.shields.io/badge/GitHub-NadiaNorbert-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0A1128" alt="GitHub" />
 </a>
@@ -65,7 +67,6 @@
 
 <img src="https://img.shields.io/badge/Machine%20Learning-0A1128?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/Deep%20Learning-0A1128?style=for-the-badge&logo=pytorch&logoColor=A78BFA" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/Computer%20Vision-0A1128?style=for-the-badge&logo=opencv&logoColor=A78BFA" alt="Computer Vision" />
 <img src="https://img.shields.io/badge/PyTorch-0A1128?style=for-the-badge&logo=pytorch&logoColor=A78BFA" alt="PyTorch" />
 <img src="https://img.shields.io/badge/NumPy-0A1128?style=for-the-badge&logo=numpy&logoColor=A78BFA" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-0A1128?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="Pandas" />
@@ -88,7 +89,6 @@
 **Databases**
 
 <img src="https://img.shields.io/badge/MySQL-0A1128?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-0A1128?style=for-the-badge&logo=mongodb&logoColor=8B5CF6" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Qdrant-0A1128?style=for-the-badge&logo=qdrant&logoColor=8B5CF6" alt="Qdrant" />
 
 **Tools**
